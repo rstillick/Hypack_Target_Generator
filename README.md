@@ -1,4 +1,4 @@
-# xls-to-tgt
+# HypackTargetGen
 Python script for creating a Hypack target file from an Excel spreadsheet. 
 
 ## Background
